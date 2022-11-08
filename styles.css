@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://www.publicdomainpictures.net/pictures/20000/nahled/hearts-wallpaper.jpg");
+    text-align: center;
+}
+
+.love-earned {
+    color: red;
+    font-size: 40px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+#loveBox {
+    text-align: center;
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 50px;
+    background-color: wheat;
+    height: 125px;
+    width: 300px;
+}
+
+#detailsBox {
+    text-align: center;
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 50px;
+    background-color: white;
+    height: 78px;
+    width: 600px;
+}
+
+.love-per {
+    color: pink;
+    font-size: 25px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+* {
+    outline: none;
+}
+        
